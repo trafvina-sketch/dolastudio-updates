@@ -1,8 +1,8 @@
 {
   "version": "2.0.6",
   "title": "DolaStudio v2.0.6",
-  "notes": "Bản cập nhật DolaStudio v2.0.6: Bổ sung version.json trên nhánh main và vượt lỗi SSL/System Proxy trên máy khách, sửa lỗi Captcha và vào thẳng dola.com/chat/.",
-  "download_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/download/v2.0.6/DolaStudio_Update.zip",
+  "notes": "Bản cập nhật DolaStudio v2.0.6: Tải trực tiếp qua raw.githubusercontent.com không lỗi SSL, mở Chrome vào thẳng dola.com/chat/ và chống dính Captcha.",
+  "download_url": "https://raw.githubusercontent.com/trafvina-sketch/dolastudio-updates/main/DolaStudio_Update.zip",
   "asset_name": "DolaStudio_Update.zip",
   "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.0.6"
 }
