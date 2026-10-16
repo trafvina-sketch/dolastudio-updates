@@ -1,8 +1,8 @@
 {
-  "version": "2.0.7",
-  "title": "DolaStudio v2.0.7",
-  "notes": "Bản cập nhật DolaStudio v2.0.7: Tích hợp toàn bộ cập nhật mới nhất của giao diện và bộ xử lý video.",
+  "version": "2.0.8",
+  "title": "DolaStudio v2.0.8",
+  "notes": "Fix load 30s: cho giao dien Dola load du cac muc cong cu moi tao video, khong tat Chrome som",
   "download_url": "https://raw.githubusercontent.com/trafvina-sketch/dolastudio-updates/main/DolaStudio_Update.zip",
   "asset_name": "DolaStudio_Update.zip",
-  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.0.7"
+  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.0.8"
 }
