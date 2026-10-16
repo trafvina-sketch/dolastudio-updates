@@ -1,8 +1,8 @@
 {
-  "version": "2.0.8",
-  "title": "DolaStudio v2.0.8",
-  "notes": "Fix load 30s: cho giao dien Dola load du cac muc cong cu moi tao video, khong tat Chrome som",
+  "version": "2.0.9",
+  "title": "DolaStudio v2.0.9",
+  "notes": "Đồng bộ 100% logic Seedance 2.5 Fast từ Seedance Pro Tho - V3: hook JSON.stringify/fetch/XHR/WebSocket, giải mã đệ quy ability_param, ép chuẩn model_version=seedance_2.5 và thời lượng 30s/15s/10s.",
   "download_url": "https://raw.githubusercontent.com/trafvina-sketch/dolastudio-updates/main/DolaStudio_Update.zip",
   "asset_name": "DolaStudio_Update.zip",
-  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.0.8"
+  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.0.9"
 }
