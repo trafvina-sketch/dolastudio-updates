@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "title": "DolaStudio v2.1.1",
-  "notes": "Tự động chọn Model 2.5 khi chọn Fast 30s và mặc định Model 2.0 (ép 31s chuẩn gốc) khi chọn Fast 15s; bỏ cụm nút chọn Model 2.0/2.5 thừa trên giao diện.",
+  "version": "--notes",
+  "title": "DolaStudio v--notes",
+  "notes": "v2.1.2: Cố định Device Fingerprint & localStorage theo từng tài khoản (Fixed-Device Fixture), giữ nguyên phiên Chrome khi chạy nhiều video liên tiếp trên cùng tài khoản, chống spam cửa sổ Chrome và tối ưu DOM observer.",
   "download_url": "https://raw.githubusercontent.com/trafvina-sketch/dolastudio-updates/main/DolaStudio_Update.zip",
   "asset_name": "DolaStudio_Update.zip",
-  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.1.1"
+  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v--notes"
 }
