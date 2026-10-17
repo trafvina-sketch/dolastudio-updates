@@ -1,8 +1,8 @@
 {
-  "version": "2.0.9",
-  "title": "DolaStudio v2.0.9",
-  "notes": "Đồng bộ 100% logic Seedance 2.5 Fast từ Seedance Pro Tho - V3: hook JSON.stringify/fetch/XHR/WebSocket, giải mã đệ quy ability_param, ép chuẩn model_version=seedance_2.5 và thời lượng 30s/15s/10s.",
+  "version": "2.1.1",
+  "title": "DolaStudio v2.1.1",
+  "notes": "Tự động chọn Model 2.5 khi chọn Fast 30s và mặc định Model 2.0 (ép 31s chuẩn gốc) khi chọn Fast 15s; bỏ cụm nút chọn Model 2.0/2.5 thừa trên giao diện.",
   "download_url": "https://raw.githubusercontent.com/trafvina-sketch/dolastudio-updates/main/DolaStudio_Update.zip",
   "asset_name": "DolaStudio_Update.zip",
-  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.0.9"
+  "html_url": "https://github.com/trafvina-sketch/dolastudio-updates/releases/tag/v2.1.1"
 }
